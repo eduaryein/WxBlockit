@@ -80,11 +80,7 @@ I hope these additional Examples are useful to you when using the functions in y
 
 - Copyright © [Winxer](https://winxer.org/)
 - Licensed under [MIT](LICENSE)
-- All our free items are Open Source and licensed under MIT. You can use our free items for personal as well as commercial purposes. We just need an attribution from your end. Copy the below link and paste it at the footer of your web application or project.
-
-  ```html
-  <a href="https://winxer.org/">Winxer</a>
-  ```
+- All our free items are Open Source and licensed under MIT. You can use our free items for personal as well as commercial purposes.
 
   ## Social Media
 
